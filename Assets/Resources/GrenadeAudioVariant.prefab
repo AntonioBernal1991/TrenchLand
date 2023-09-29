@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1845461569304806783
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1560369166648592982, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1560369166648592982, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.200922
+      objectReference: {fileID: 0}
+    - target: {fileID: 1560369166648592982, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10.810408
+      objectReference: {fileID: 0}
+    - target: {fileID: 1560369166648592982, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.4314437
+      objectReference: {fileID: 0}
+    - target: {fileID: 1560369166648592982, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1560369166648592982, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1560369166648592982, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1560369166648592982, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1560369166648592982, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1560369166648592982, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1560369166648592982, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2528754333675270415, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: Priority
+      value: 109
+      objectReference: {fileID: 0}
+    - target: {fileID: 2528754333675270415, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_Volume
+      value: 0.546
+      objectReference: {fileID: 0}
+    - target: {fileID: 2528754333675270415, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e3933680fa049fd48adc8c9b24a39bb2, type: 3}
+    - target: {fileID: 8248101409637316336, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_Name
+      value: GrenadeAudioVariant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8248101409637316336, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 00f36037d7be8aa4682a3895a438af29, type: 3}
